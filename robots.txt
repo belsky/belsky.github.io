@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://belsky.github.io/sitemap.xml 
