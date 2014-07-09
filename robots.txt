@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://belsky.github.io/sitemap.xml 
+Sitemap: http://blog.belsky.in/sitemap.xml 
