@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://blog.belsky.in/blog/2014/07/09/internet/</loc>
+    <loc>http://blog.belsky.in/blog/internet/</loc>
     <lastmod>2014-07-09T03:16:49+04:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -11,14 +11,14 @@
   
   <url>
     <loc>http://blog.belsky.in/blog/archives/</loc>
-    <lastmod>2014-07-09T04:45:33+04:00</lastmod>
+    <lastmod>2014-07-18T01:29:22+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blog.belsky.in/</loc>
-    <lastmod>2014-07-09T04:45:33+04:00</lastmod>
+    <lastmod>2014-07-18T01:29:22+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
